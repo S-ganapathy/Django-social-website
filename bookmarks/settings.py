@@ -144,8 +144,8 @@ AUTHENTICATION_BACKENDS = [
 ]
 
 
-SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = '623963873208-86c27iqi1q0vt8q17tlj4q1s6qia17uf.apps.googleusercontent.com' # Google Consumer Key
-SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = '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' # Google Consumer Secret
+# Google Consumer Key
+# Google Consumer Secret
 
 # THUMBNAIL_DEBUG=True
 
